@@ -8,7 +8,7 @@
  {<<"base64url">>,{pkg,<<"base64url">>,<<"1.0.1">>},1},
  {<<"blockchain">>,
   {git,"https://github.com/Flugzwerg/blockchain-core.git",
-       {ref,"915efcc4be06a345e329ebf9c947232e6d8f4c1e"}},
+       {ref,"30d210268db37feaee9eb0ec416080fc3489a9e2"}},
   0},
  {<<"certifi">>,{pkg,<<"certifi">>,<<"2.9.0">>},2},
  {<<"chatterbox">>,
